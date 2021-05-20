@@ -1,0 +1,4 @@
+exception\FileReadException.class
+Main.class
+Operator.class
+PropertyReader.class
